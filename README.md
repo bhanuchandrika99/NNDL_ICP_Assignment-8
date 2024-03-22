@@ -3,7 +3,7 @@ Spring 2024: CS5720: Neural Network Deep Learning: ICP_ Assignment-8
 
 Name: Bhanu Chandrika Lakkimsetti ID: 700747439
 
-Code File - NNDL_ICP_Assignment_8.ipynb   Document- NNDL_ICP_Assignment_8.DOCX   Video Link: 
+Code File - NNDL_ICP_Assignment_8.ipynb   Document- NNDL_ICP_Assignment_8.DOCX   Video Link: https://drive.google.com/file/d/1duM9fI56jiLHZuXxDrpkGV5SKT-hAOad/view?usp=sharing
 
 Types and applications of Autoencoder  
 
